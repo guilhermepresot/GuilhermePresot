@@ -1,3 +1,4 @@
+# 👋 Hi, I'm Guilherme Presot
 # 👨🏻‍💻 About Me:
 PUC Minas | Software Engineering | C | Python<br><br>
 
